@@ -3,12 +3,13 @@
 youtube-dl - download videos from youtube.com or other video platforms
 
 用法：
-youtube-dl --batch-file batch_file.txt --ffmpeg-location D:\ffmpeg-win64-static\bin
+youtube-dl --ignore-errors --batch-file batch_file.txt --ffmpeg-location D:\ffmpeg-win64-static\bin
 batch_file.txt  '''
 https://v.youku.com/v_show/id_XMzQyNzQ5NzY2OA==.html
 https://v.youku.com/v_show/id_XMzQyNzUzODY1Mg==.html
 https://v.youku.com/v_show/id_XMzQyNzU0MDc0OA==.html
 '''
+
 ffmpeg:  https://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-20180714-c5329d6-win64-static.zip
 
 - [INSTALLATION](#installation)
